@@ -1,4 +1,4 @@
-Key Components :
+Key Components :                                                                                                                                                      
   1-Global Variables :- 
      - products: A jQuery selector for the product display area.
      - loadingScreen: A jQuery selector for the loading screen element.
